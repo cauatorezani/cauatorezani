@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<defs><linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b3b7a" stop-opacity="0"/><stop offset="1" stop-color="#06204a"/></linearGradient><clipPath id="c"><rect width="1200" height="120" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<path fill="#0ea5e9" fill-opacity=".25"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 60 Q300 20 600 60 T1200 50 V120 H0Z;M0 50 Q300 90 600 45 T1200 65 V120 H0Z;M0 60 Q300 20 600 60 T1200 50 V120 H0Z"/></path>
+<path fill="#2563eb" fill-opacity=".35"><animate attributeName="d" dur="11s" repeatCount="indefinite" values="M0 85 Q400 55 800 90 T1200 80 V120 H0Z;M0 90 Q400 110 800 75 T1200 90 V120 H0Z;M0 85 Q400 55 800 90 T1200 80 V120 H0Z"/></path>
+<circle cx="1058" cy="-10" r="3" fill="#e6f4ff" opacity="0.38"><animateTransform attributeName="transform" type="translate" values="0 0;-5 70;-9 140" dur="12.4s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="156" cy="-10" r="1" fill="#e6f4ff" opacity="0.38"><animateTransform attributeName="transform" type="translate" values="0 0;-2 70;-4 140" dur="12.3s" begin="-10.8s" repeatCount="indefinite"/></circle>
+<circle cx="798" cy="-10" r="2" fill="#e6f4ff" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0;-7 70;-13 140" dur="14.7s" begin="-9.9s" repeatCount="indefinite"/></circle>
+<circle cx="352" cy="-10" r="2" fill="#e6f4ff" opacity="0.57"><animateTransform attributeName="transform" type="translate" values="0 0;-15 70;-30 140" dur="7.9s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="395" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.48"><animateTransform attributeName="transform" type="translate" values="0 0;11 70;23 140" dur="9.2s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="220" cy="-10" r="1.5" fill="#e6f4ff" opacity="0.47"><animateTransform attributeName="transform" type="translate" values="0 0;0 70;0 140" dur="9.8s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="606" cy="-10" r="1" fill="#e6f4ff" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0 0;-11 70;-21 140" dur="6.9s" begin="-5.6s" repeatCount="indefinite"/></circle>
+<circle cx="473" cy="-10" r="1.5" fill="#e6f4ff" opacity="0.67"><animateTransform attributeName="transform" type="translate" values="0 0;3 70;5 140" dur="9.0s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="901" cy="-10" r="3" fill="#e6f4ff" opacity="0.81"><animateTransform attributeName="transform" type="translate" values="0 0;3 70;6 140" dur="14.9s" begin="-11.7s" repeatCount="indefinite"/></circle>
+<circle cx="865" cy="-10" r="2" fill="#e6f4ff" opacity="0.38"><animateTransform attributeName="transform" type="translate" values="0 0;4 70;9 140" dur="7.5s" begin="-5.4s" repeatCount="indefinite"/></circle>
+<circle cx="1002" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.43"><animateTransform attributeName="transform" type="translate" values="0 0;9 70;19 140" dur="12.3s" begin="-9.0s" repeatCount="indefinite"/></circle>
+<circle cx="629" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.76"><animateTransform attributeName="transform" type="translate" values="0 0;-15 70;-29 140" dur="11.7s" begin="-9.5s" repeatCount="indefinite"/></circle>
+<circle cx="958" cy="-10" r="3" fill="#e6f4ff" opacity="0.37"><animateTransform attributeName="transform" type="translate" values="0 0;-8 70;-16 140" dur="12.8s" begin="-8.9s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="-10" r="1.5" fill="#e6f4ff" opacity="0.38"><animateTransform attributeName="transform" type="translate" values="0 0;-1 70;-3 140" dur="15.6s" begin="-5.9s" repeatCount="indefinite"/></circle>
+<circle cx="23" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.83"><animateTransform attributeName="transform" type="translate" values="0 0;-15 70;-30 140" dur="12.8s" begin="-6.3s" repeatCount="indefinite"/></circle>
+<circle cx="898" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;1 70;2 140" dur="15.0s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="569" cy="-10" r="1" fill="#e6f4ff" opacity="0.49"><animateTransform attributeName="transform" type="translate" values="0 0;8 70;15 140" dur="14.5s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="780" cy="-10" r="2" fill="#e6f4ff" opacity="0.76"><animateTransform attributeName="transform" type="translate" values="0 0;-1 70;-1 140" dur="10.9s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="-10" r="2.5" fill="#e6f4ff" opacity="0.55"><animateTransform attributeName="transform" type="translate" values="0 0;3 70;6 140" dur="12.3s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="782" cy="-10" r="3" fill="#e6f4ff" opacity="0.39"><animateTransform attributeName="transform" type="translate" values="0 0;-15 70;-29 140" dur="9.0s" begin="-5.1s" repeatCount="indefinite"/></circle>
+<circle cx="323" cy="-10" r="3" fill="#e6f4ff" opacity="0.78"><animateTransform attributeName="transform" type="translate" values="0 0;-0 70;-1 140" dur="7.0s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<circle cx="343" cy="-10" r="2" fill="#e6f4ff" opacity="0.47"><animateTransform attributeName="transform" type="translate" values="0 0;12 70;24 140" dur="10.7s" begin="-1.3s" repeatCount="indefinite"/></circle>
+<circle cx="1174" cy="-10" r="2" fill="#e6f4ff" opacity="0.93"><animateTransform attributeName="transform" type="translate" values="0 0;10 70;19 140" dur="6.2s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="539" cy="-10" r="1.5" fill="#e6f4ff" opacity="0.39"><animateTransform attributeName="transform" type="translate" values="0 0;13 70;26 140" dur="9.9s" begin="-9.0s" repeatCount="indefinite"/></circle>
+<circle cx="108" cy="-10" r="3" fill="#e6f4ff" opacity="0.84"><animateTransform attributeName="transform" type="translate" values="0 0;-11 70;-22 140" dur="11.2s" begin="-10.7s" repeatCount="indefinite"/></circle>
+</g></svg>
