@@ -1,42 +1,89 @@
 <div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Cauã Torezani — Front-end Developer e Shader Specialist" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Cau%C3%A3%20Torezani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%E2%80%A2%20Shader%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Especialista+em+GLSL+%26+WGSL;Experi%C3%AAncias+3D+na+Web+com+Three.js" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Escrevo+shaders+em+GLSL+e+WGSL;Levo+experi%C3%AAncias+3D+para+o+navegador;Interfaces+r%C3%A1pidas%2C+fluidas+e+bonitas;Front-end+do+pixel+ao+deploy" alt="Typing SVG" />
 </div>
+
+---
 
 ## Sobre mim
 
-Sou **desenvolvedor front-end** apaixonado por gráficos em tempo real. Meu foco é criar interfaces e experiências visuais marcantes na web, escrevendo **shaders** em **GLSL** e **WGSL** e levando cenas 3D para o navegador com **Three.js**.
+Sou **desenvolvedor front-end** em nível avançado, com um pé no código e outro nos gráficos em tempo real. Gosto de pegar uma ideia visual e transformar em algo que roda liso no navegador: de uma landing page com scroll suave e animações bem coreografadas até cenas 3D com shaders escritos na mão.
 
-- Especialista em linguagens de shader (GLSL / WGSL)
-- Construindo experiências 3D e interativas para a web
-- Interfaces modernas com React, Next.js e Tailwind CSS
+Minha especialidade são as **linguagens de shader**. Escrevo **GLSL** para WebGL e **WGSL** para a nova geração de gráficos com **WebGPU**, criando efeitos, materiais, pós-processamento e visuais procedurais que deixam uma interface com cara própria.
+
+```ts
+const cauã = {
+  role: "Front-end Developer",
+  specialty: ["GLSL", "WGSL", "WebGL", "WebGPU"],
+  stack: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Three.js"],
+  motion: ["Lenis", "Anime.js", "GSAP"],
+  focus: "interfaces que parecem vivas, sem abrir mão da performance",
+};
+```
+
+### O que eu faço
+
+| | |
+|---|---|
+| **Shaders e gráficos** | Efeitos visuais, materiais e pós-processamento em GLSL e WGSL |
+| **Experiências 3D** | Cenas interativas na web com Three.js |
+| **Interfaces** | Aplicações modernas e responsivas com React, Next.js e Tailwind |
+| **Motion** | Scroll suave, transições e microinterações que dão vida à página |
+| **Performance** | Código tipado, componentes reutilizáveis e renderização eficiente |
+
+---
 
 ## Linguagens
 
-<p>
-  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/WGSL-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/GLSL-0B1D3A?style=for-the-badge&logo=opengl&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/WGSL-0B1D3A?style=for-the-badge&logo=webgpu&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1D3A?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1D3A?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/HTML5-0B1D3A?style=for-the-badge&logo=html5&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/CSS3-0B1D3A?style=for-the-badge&logo=css&logoColor=38BDF8" />
 </p>
 
-## Bibliotecas e Frameworks
+## Frameworks e estilo
 
-<p>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&theme=dark" />
 </p>
 
-## Estatísticas
+
+## Gráficos, 3D e animação
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Three.js-0B1D3A?style=for-the-badge&logo=threedotjs&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/WebGL-0B1D3A?style=for-the-badge&logo=webgl&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/WebGPU-0B1D3A?style=for-the-badge&logo=webgpu&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Lenis_Scroll-0B1D3A?style=for-the-badge&logo=lenis&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Anime.js-0B1D3A?style=for-the-badge&logo=anime.js&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/GSAP-0B1D3A?style=for-the-badge&logo=greensock&logoColor=38BDF8" />
+</p>
+
+## Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,npm,vercel&theme=dark" />
+</p>
+
+---
+
+## Atividade
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cauatorezani&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatorezani&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img src="https://streak-stats.demolab.com?user=cauatorezani&theme=transparent&hide_border=true&background=0B1D3A&ring=38BDF8&fire=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=38BDF8&sideLabels=BAE6FD&dates=7DD3FC&stroke=1E3A5F&locale=pt_BR&border_radius=14" width="70%" alt="Sequência de contribuições" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cauatorezani&label=visitas&color=0ea5e9&style=flat-square" alt="Visitas" />
+  <br/><br/>
+  <img src="./assets/footer.svg" width="100%" />
+</div>
